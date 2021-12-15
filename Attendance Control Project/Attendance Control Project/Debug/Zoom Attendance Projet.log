@@ -1,0 +1,3 @@
+﻿  attendance.c
+C:\Users\CG\Documents\Visual Studio 2019\Zoom Attendance Projet\Zoom Attendance Projet\attendance.c(46,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  Zoom Attendance Projet.vcxproj -> C:\Users\CG\Documents\Visual Studio 2019\Zoom Attendance Projet\Debug\Zoom Attendance Projet.exe
